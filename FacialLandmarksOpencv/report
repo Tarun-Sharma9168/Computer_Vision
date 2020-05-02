@@ -1,3 +1,6 @@
 A small Report for Facial Landmarks:
 Real time Facial Landmark detector using Opencv .Python file also has running option such that how you will run this file.
 Some important package is needed with most important as opencv....so try it....
+
+
+shape Predictor file needed you should download from here:https://drive.google.com/drive/u/1/my-drive
